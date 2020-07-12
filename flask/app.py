@@ -10,3 +10,6 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+# This file is the main flask framework that renders the inddx html file and the associated css
