@@ -3,6 +3,7 @@
 Created on Fri Apr 24 15:05:41 2020
 
 @author: Janu
+testing to do a new commit
 """
 
 RATE = 3.5
